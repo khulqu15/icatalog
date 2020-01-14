@@ -1,0 +1,7 @@
+
+        // $gambar1 = $this->request->getFile('gambar1');
+        // $gambarName1 = (String)$gambar1->getRandomName().'.'.$gambar1->getClientExtension();
+        // $gambar2 = $this->request->getFile('gambar2');
+        // $gambarName2 = (String)$gambar2->getRandomName().'.'.$gambar2->getClientExtension();
+        // $gambar3 = $this->request->getFile('gambar3');
+        // $gambarName3 = (String)$gambar3->getRandomName().'.'.$gambar3->getClientExtension();
